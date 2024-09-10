@@ -1,0 +1,42 @@
+
+
+#Click{
+    background: linear-gradient(45deg, #ff6b6b, #eb8251);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: bold;
+    /* transition: background 0.3s ease; */
+}
+#Click:hover{
+    background: linear-gradient(45deg, #f03232, #e75613);
+}
+#countframes{
+    background: linear-gradient(45deg, #87CEFA, #00BFFF); /* Sky blue gradient */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+
+#countframes:hover{
+    background: linear-gradient(45deg, #2495db, #1792bb); /* Sky blue gradient */
+}
+#ClickNested{
+    background: linear-gradient(45deg, #603ff0, #836bee); /* Sky blue gradient */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#ClickNested:hover{
+    background: linear-gradient(45deg, #421ce7, #7961e2); /* Sky blue gradient */
+
+}
